@@ -1,0 +1,31 @@
+.sidebar-container {
+  flex-basis: 30%;
+  height: 90vh;
+}
+
+.controller-container {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  flex-basis: 30%;
+  background-color: var(--sidebar_background);
+  border-top: 1px solid var(--body_background);
+  height: 90vh;
+}
+
+.sliders-container {
+  margin: 5% auto;
+  width: fit-content;
+}
+.github-logo-container {
+  display: flex;
+  flex-direction: column;
+  margin: 5px auto;
+  align-items: center;
+}
+
+.sidebar-visitor-badge {
+  width: 80px;
+  margin: 0 auto 2px;
+}

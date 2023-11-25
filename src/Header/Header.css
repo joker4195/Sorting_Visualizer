@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Stylish&display=swap");
+
+.header-container {
+  height: 10vh;
+  background-color: #222831;
+}
+.header-heading-container {
+  text-align: left;
+}
+.header-heading {
+  font-family: "Stylish", sans-serif;
+  font-size: 2.5rem;
+  margin-left: 5px;
+}
