@@ -2,7 +2,7 @@
 Sorting Visualizer is an algorithm visualizer application built in react js
 At present it contains sorting algorithms
 
-#Deployed Link
+# Deployed Link
  https://sorting-visualizer4195.netlify.app/
 
 ## Available Scripts
